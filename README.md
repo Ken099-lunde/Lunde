@@ -1,4 +1,4 @@
-
+I'll
 
 ```
 # README: Butshidibule Lunde's ISC2 CC Journey
@@ -45,7 +45,4 @@ as you pursue your ISC2 CC certification. Remember, perseverance and dedication 
 Feel free to reach out if you have any questions or need further assistance:
 - Email: kenny@skunkworks.africa
          kenbutshidibule1@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
-```
-
-Feel free to further customize the README with additional details or insights from your journey. Congratulations once again on passing the exam!
+- LinkedIn: www.linkedln.com/in/ken-lunde099 
