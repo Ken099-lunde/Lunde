@@ -1,3 +1,4 @@
+>>>>>> main
 # 👋 Hi there, I am ken099-lunde!
 Welcome to my GitHub space where my passion for database and cybersecurity comes to life.
 
